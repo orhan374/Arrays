@@ -6,4 +6,5 @@ public class araba {
     private String model;
     private String modelYili;
     private double silindirHacmi;
+
 }
